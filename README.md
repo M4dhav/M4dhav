@@ -35,5 +35,5 @@ I'm a Student, Full Stack Developer from India.
 ### :fire: My Stats :
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
-  </break>
+  <break>
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M4dhav&theme=radical">
