@@ -4,7 +4,7 @@
 
 <h1 align = "center">I'm Madhav Gupta.</h1>
 
-    ---
+---
 
 ### :woman_technologist: About Me 
 
