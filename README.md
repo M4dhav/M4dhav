@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍🏫 About Me:
-I'm a Student, Full Stack Developer from India :flag_india:
+I'm a Student, Full Stack Developer from India :woman_technologist:
 
 <!--
 **M4dhav/M4dhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
