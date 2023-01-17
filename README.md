@@ -50,7 +50,7 @@ I'm a Student, Full Stack Developer from India.
 </p>
 </details>
 </table>
-<table>
+<table align = "center">
 <tr>
 <td align = "center">
 <div align = "center">
