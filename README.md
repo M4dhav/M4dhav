@@ -77,9 +77,3 @@
 </td>
 </tr>
 </table>
-<br>
-<br>
-
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/26ghbWoXv3G6ypo8o/giphy.gif/>
-</div>
