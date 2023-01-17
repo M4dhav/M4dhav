@@ -50,7 +50,6 @@ I'm a Student, Full Stack Developer from India.
 </p>
 </details>
 </table>
-<!-- <div align = "center">
+<div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
-  <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M4dhav&theme=radical"> -->
+</div>
