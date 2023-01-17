@@ -51,9 +51,13 @@ I'm a Student, Full Stack Developer from India.
 </details>
 </table>
 <table>
+<tr>
+<td>
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
 </div>
+</tr>
+</td>
 </table>
 <br>
 <table>
