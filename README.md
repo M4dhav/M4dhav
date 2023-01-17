@@ -52,7 +52,7 @@ I'm a Student, Full Stack Developer from India.
 </table>
 <table>
 <tr>
-<td>
+<td align = "center">
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
 </div>
