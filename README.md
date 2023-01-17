@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍🏫 About Me:
-I'm a Student, Full Stack Developer from India &U+1F1EE U+1F1F3;
+I'm a Student, Full Stack Developer from India &#127470; &#127475;
 <!--
 **M4dhav/M4dhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
