@@ -9,8 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-### 👨‍🏫 About Me:
-I'm a Student, Full Stack Developer from India.
+### I'm a Student, Full Stack Developer from India.
 
 - 🔭 I’m currently working on getting through College
 - 🌱 I’m currently learning Java
