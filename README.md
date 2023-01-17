@@ -50,12 +50,18 @@ I'm a Student, Full Stack Developer from India.
 </p>
 </details>
 </table>
+<table>
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
 </div>
+</table>
 <br>
+<table>
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4dhav&theme=radical"> 
 </div>
+</table>
+<table>
 <div align = "center">
   <img src = "https://github-profile-trophy.vercel.app/?username=M4dhav&theme=radical">
+</table>
