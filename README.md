@@ -53,3 +53,7 @@ I'm a Student, Full Stack Developer from India.
 <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
 </div>
+<br>
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M4dhav&theme=radical"> 
+</div>
