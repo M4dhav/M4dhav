@@ -1,4 +1,6 @@
-### Hi there 👋
+### <div id="header" align="center">
+  <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif" width="100"/>
+</div>
 
 <!--
 **M4dhav/M4dhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
