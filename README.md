@@ -6,7 +6,7 @@
 
 ---
 
-### :woman_technologist: About Me 
+### 👨‍🏫 About Me 
 
 <!--
 **M4dhav/M4dhav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
