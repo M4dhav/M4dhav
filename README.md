@@ -33,7 +33,24 @@ I'm a Student, Full Stack Developer from India.
 ---
 
 ### :fire: My Stats :
-<div align = "center">
+<table>
+<tr>
+  <td align="center">
+  <p align="center">
+  <a href="https://github.com/M4dhav">
+    <img align="center" height="200px" width="600"src="https://github-readme-stats.vercel.app/api?username=M4dhav&count_private=true&show_icons=true&show_icons=true&locale=en&theme=radical"/>
+  </a>
+  </td>
+  <td align="center">
+  <a href="https://github.com/M4dhav">
+    <img align="center" height="200px" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=M4dhav&show_icons=true&locale=en&layout=compact&theme=radical" />
+    
+  </a>
+  </td>
+</p>
+</details>
+</table>
+<!-- <div align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=M4dhav&theme=radical">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M4dhav&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=M4dhav&theme=radical"> -->
