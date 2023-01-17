@@ -16,7 +16,8 @@ I'm a Student, Full Stack Developer from India.
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on innovative projects
 - 🤔 I’m looking for help with Engineering Physics and Maths💀
-- 📫 How to reach me: <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+- 📫 How to reach me: <a href="mailto:e22cseu0827@bennett.edu.in"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
