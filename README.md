@@ -32,13 +32,17 @@
 
 ---
 
-### Listening To:
+### 🎧Listening To:
 
-<a align = "center">
+<table>
+<tr>
+<td align = "center">
 
 [![Spotify](https://novatorem-phi-jade.vercel.app/api/spotify)](https://open.spotify.com/user/31caiiwb5h25qmpwompbcvieju3q)
 
-</a>
+</td>
+</tr>
+</table>
 
 ---
 
