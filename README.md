@@ -33,7 +33,8 @@
 ---
 
 ### 🎧Listening To:
-
+<br>
+<center>
 <table>
 <tr>
 <td align = "center">
@@ -43,7 +44,8 @@
 </td>
 </tr>
 </table>
-
+</center>
+<br>
 ---
 
 ### :fire: My Stats :
