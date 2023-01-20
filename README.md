@@ -34,18 +34,14 @@
 
 ### 🎧Listening To:
 <br>
-<center>
-<table>
-<tr>
-<td align = "center">
+<div align="center">
 
 [![Spotify](https://novatorem-phi-jade.vercel.app/api/spotify)](https://open.spotify.com/user/31caiiwb5h25qmpwompbcvieju3q)
 
-</td>
-</tr>
-</table>
-</center>
+</div>
+
 <br>
+    
 ---
 
 ### :fire: My Stats :
