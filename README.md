@@ -84,3 +84,7 @@
 </td>
 </tr>
 </table>
+
+
+
+[![Spotify](https://novatorem-phi-jade.vercel.app/api/spotify)](https://open.spotify.com/user/31caiiwb5h25qmpwompbcvieju3q)
