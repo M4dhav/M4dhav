@@ -20,7 +20,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align = "center">
 <a href="https://github.com/M4dhav">
   <img href = "https://github.com/M4dhav" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   </a><a href="https://github.com/M4dhav">
@@ -34,17 +34,12 @@
 
 ### 🎧Listening To:
 <br>
-<center>
-<table>
-<tr>
-<td align = "center">
+<p text-align="center">
 
 [![Spotify](https://novatorem-phi-jade.vercel.app/api/spotify)](https://open.spotify.com/user/31caiiwb5h25qmpwompbcvieju3q)
 
-</td>
-</tr>
-</table>
-</center>
+</p>
+
 <br>
 ---
 
