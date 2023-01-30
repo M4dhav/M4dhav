@@ -1,9 +1,8 @@
 <meta charset="UTF-8">
 
-<a href="https://github.com/M4dhav">
-<div id="header" align="center">
+<div id="header" align="center" href="https://github.com/M4dhav">
   <img src="https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif"/>
-</div></a>
+</div>
 
 <h1 align = "center">I'm Madhav Gupta.</h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
