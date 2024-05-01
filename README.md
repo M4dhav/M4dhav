@@ -14,7 +14,8 @@
 -  I’m currently working on getting through College
 -  I’m in love with Flutter
 -  I’m looking to collaborate on innovative projects
--  How to reach me: <a href="mailto:e22cseu0827@bennett.edu.in"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>  <a href="https://www.instagram.com/waitthatdoesntcompute"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>  <a href="https://www.reddit.com/user/M4dhav1"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+-  Junior Developer @ PowerClub Global
+-  How to reach me: <a href="mailto:e22cseu0827@bennett.edu.in"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a> 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
